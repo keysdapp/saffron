@@ -1,20 +1,13 @@
 ---
 title: Hello World
-description: Welcome to Hugo Theme Stack
+description: My first foray into the world of blogging
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: cover.jpg
+date: 2025-10-21
 categories:
-    - Example Category
-tags:
-    - Example Tag
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - misc
 ---
+I've been troubleshooting problems for the majority of my life, and other than StackExchange, the most useful websites I encounter regularily are blogs. Whenever I see a random looking URL with a title that almost perfectly describes my problems, I get excited.
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Recently, however, I'm finding more and more websites that are obviously created to fill the first page of Google with AI generated "solutions" to problems. These "solutions" almost never work, but since they're optimized so well for SEO they clog up the search results and actively make it harder to troubleshoot. This is why we need more real people posting their real solutions online.
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+The people who go out of their way to document their problem and solution to it on the off-chance someone else runs into it as well are an inspiration to me, and that's why I decided to start this blog. If a single person finds one of my posts useful, I will have accomplished my goal.
